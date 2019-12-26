@@ -23,3 +23,4 @@ print(L3)
 import numpy as np
 m=np.mean(L3)
 print("平均值为：%d" % m)
+sdjajjhakjhsadlkh
